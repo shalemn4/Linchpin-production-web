@@ -36,23 +36,29 @@ src/
 ---
 
 ## 🚀 Getting Started
-2️⃣ Install dependencies
+Install dependencies : 
 npm install
 
-3️⃣ Run the dev server
+Run the dev server : 
 npm run dev
 
-📦 Build for production
+Build for production : 
 npm run build
 
-To preview the production build locally:
+To preview the production build locally : 
 npm run preview
+
+
+
 
 📝 Note
 This website was deployed and live in production for one month.
 However, due to some reasons, it had to be taken down afterward.
 
-🔮 Future Improvements
+
+
+
+🔮 Future Improvements:
 Add backend integration (REST / GraphQL)
 Add authentication & user roles
 Add testing with Vitest / Cypress
